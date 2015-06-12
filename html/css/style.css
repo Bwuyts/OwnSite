@@ -386,7 +386,7 @@ p a {
 #connect a.twitter {
 	background-position: 0 -80px;
 }
-#connect a.tumbler {
+#connect a.linkedin {
 	background-position: 0 -120px;
 }
 #connect a.facebook:hover {
@@ -398,6 +398,6 @@ p a {
 #connect a.twitter:hover {
 	background-position: -40px -80px;
 }
-#connect a.tumbler:hover {
+#connect a.linkedin:hover {
 	background-position: -40px -120px;
 }
